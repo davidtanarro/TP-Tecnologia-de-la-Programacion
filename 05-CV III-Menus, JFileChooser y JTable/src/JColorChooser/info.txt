@@ -1,0 +1,1 @@
+JColorChooser para seleccionar un color de una paleta de colores.
